@@ -1,0 +1,13 @@
+{
+	"vnc_path":"C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe",
+	"ssh_path":"ssh",
+	"telnet_path":"telnet",
+	"ssh_port":"22",
+	"telnet_port":"23",
+	"vnc_port":"5901",
+	"web_port":"36905",
+	"settings_port":"80",
+	"default_raspap_ip_gateway":"10.3.141.1",
+	"connection_type":"wifi",
+	"target_user":"pi"
+}
