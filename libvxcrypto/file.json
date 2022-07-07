@@ -1,0 +1,12 @@
+{
+  "response": 200,
+  "data": {
+    "vegetables": {
+      "vegetable1": "tomato",
+      "vegetable2": "..."
+    },
+    "deserts": {
+      "desert": "chocolate"
+    }
+  }
+}
